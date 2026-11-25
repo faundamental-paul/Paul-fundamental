@@ -1,23 +1,26 @@
 import json
 import urllib.request
-import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
-# Fluxuri RSS + GDELT Live Global Wire (aduce știri noi 24/7, inclusiv seara/noaptea)
+# Surse RSS directe care NU blocheaza serverele GitHub Actions si publica 24/7
 RSS_FEEDS = [
-    ("Reuters / Google News FX", "https://news.google.com/rss/search?q=forex+OR+%22central+bank%22+OR+%22interest+rate%22+OR+geopolitics+OR+%22crude+oil%22&hl=en-US&gl=US&ceid=US:en"),
-    ("Federal Reserve & USD", "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+Powell+OR+Waller&hl=en-US&gl=US&ceid=US:en"),
-    ("ECB / BoE / BoJ / RBA", "https://news.google.com/rss/search?q=ECB+OR+%22Bank+of+England%22+OR+%22Bank+of+Japan%22+OR+RBA+OR+SNB&hl=en-US&gl=US&ceid=US:en"),
-    ("Geopolitics & Oil", "https://news.google.com/rss/search?q=%22Strait+of+Hormuz%22+OR+OPEC+OR+tariffs+OR+%22Middle+East%22+oil&hl=en-US&gl=US&ceid=US:en")
+    ("CNBC Economy & Central Banks", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
+    ("CNBC World & Geopolitics", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362"),
+    ("Yahoo Finance Forex & Macro", "https://finance.yahoo.com/news/rssindex"),
+    ("MarketWatch Top Stories", "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
+    ("Federal Reserve Press", "https://www.federalreserve.gov/feeds/press_all.xml"),
+    ("ECB Press & Speeches", "https://www.ecb.europa.eu/rss/press.html")
 ]
 
-GDELT_URL = (
-    "https://api.gdeltproject.org/api/v2/doc/doc?query="
-    + urllib.parse.quote('("Federal Reserve" OR "ECB" OR "Bank of England" OR "Bank of Japan" OR "RBA" OR "interest rate" OR "crude oil" OR "tariffs" OR "Strait of Hormuz")')
-    + "&mode=ArtList&maxrecords=25&format=json&sort=DateDesc"
-)
+KEYWORDS = [
+    "fed", "fomc", "powell", "rate", "inflation", "cpi", "ecb", "lagarde",
+    "boe", "bank of england", "bailey", "boj", "bank of japan", "yen", "ueda",
+    "rba", "snb", "boc", "dollar", "euro", "sterling", "forex", "currency",
+    "oil", "crude", "opec", "hormuz", "war", "tariff", "china", "iran",
+    "sanction", "treasury", "yield", "bond", "recession", "central bank", "cut", "hike"
+]
 
 def format_time_ago(dt):
     now = datetime.now(timezone.utc)
@@ -30,15 +33,15 @@ def format_time_ago(dt):
 
 def detect_impacts(title):
     low = title.lower()
-    bearish = any(w in low for w in ["cut", "dovish", "drop", "fall", "crisis", "deadlock", "slow", "weak"])
+    bearish = any(w in low for w in ["cut", "dovish", "drop", "fall", "crisis", "deadlock", "slow", "weak", "slump", "plunge"])
     impacts = []
     rules = [
-        ("USD", ["fed", "fomc", "powell", "waller", "bowman", "us ", "dollar", "treasury", "tariff"]),
-        ("EUR", ["ecb", "lagarde", "euro", "france", "germany", "oat", "bund"]),
-        ("GBP", ["boe", "bank of england", "bailey", "uk ", "britain", "sterling"]),
-        ("JPY", ["boj", "bank of japan", "ueda", "yen", "japan"]),
-        ("CHF", ["snb", "swiss", "franc", "schlegel"]),
-        ("AUD", ["rba", "australia", "aussie", "bullock", "china"]),
+        ("USD", ["fed", "fomc", "powell", "waller", "bowman", "us ", "u.s.", "dollar", "treasury", "tariff", "america"]),
+        ("EUR", ["ecb", "lagarde", "euro", "france", "germany", "oat", "bund", "europe"]),
+        ("GBP", ["boe", "bank of england", "bailey", "uk ", "u.k.", "britain", "sterling", "pound"]),
+        ("JPY", ["boj", "bank of japan", "ueda", "yen", "japan", "tokyo"]),
+        ("CHF", ["snb", "swiss", "franc", "schlegel", "switzerland"]),
+        ("AUD", ["rba", "australia", "aussie", "bullock", "china", "iron ore"]),
         ("NZD", ["rbnz", "new zealand", "kiwi"]),
         ("CAD", ["boc", "bank of canada", "canada", "loonie", "oil", "crude", "opec"])
     ]
@@ -54,72 +57,68 @@ def fetch_all_stories():
     seen_titles = set()
     stories = []
 
-    # 1. Fetch from RSS Feeds
     for source_name, url in RSS_FEEDS:
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=12) as resp:
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                    "Accept": "application/rss+xml, application/xml, text/xml, */*"
+                }
+            )
+            with urllib.request.urlopen(req, timeout=15) as resp:
                 xml_data = resp.read()
             root = ET.fromstring(xml_data)
-            for item in root.findall(".//item")[:10]:
+            for item in root.findall(".//item")[:20]:
                 title = (item.findtext("title") or "").strip()
                 link = (item.findtext("link") or "").strip()
                 pub = (item.findtext("pubDate") or "").strip()
+                desc = (item.findtext("description") or "").strip()
                 if not title or title.lower() in seen_titles:
+                    continue
+                low = (title + " " + desc).lower()
+                if not any(kw in low for kw in KEYWORDS):
                     continue
                 seen_titles.add(title.lower())
                 try:
                     dt = parsedate_to_datetime(pub).astimezone(timezone.utc)
                 except Exception:
                     dt = datetime.now(timezone.utc)
+                clean_desc = desc.replace("<p>", "").replace("</p>", "").strip()
+                summary = clean_desc[:320] if len(clean_desc) > 30 else f"Live wire ({source_name}): {title}."
+                ago_str = format_time_ago(dt)
+                days_old = max(0, int((datetime.now(timezone.utc) - dt).total_seconds() // 86400))
+                is_geo = any(w in low for w in ["war", "hormuz", "oil", "opec", "tariff", "sanction", "iran", "china"])
                 stories.append({
                     "title": title,
-                    "url": link,
+                    "url": link or "https://www.cnbc.com/world/",
                     "sources": [source_name],
                     "publishedAt": dt.isoformat(),
-                    "timeAgo": format_time_ago(dt),
+                    "daysAgo": days_old,
+                    "timeAgo": ago_str,
+                    "timeLabel": ago_str,
+                    "category": "GEOPOLITICS" if is_geo else "MONETARY",
+                    "horizon": "SHORT" if is_geo else "MEDIUM",
+                    "impact": 8,
                     "impactScore": 8,
-                    "currencyImpacts": detect_impacts(title),
-                    "summaryEn": f"Live institutional wire ({source_name}): {title}."
+                    "currencyImpacts": detect_impacts(low),
+                    "summaryEn": summary
                 })
-        except Exception:
+        except Exception as exc:
+            print(f"Feed warning ({source_name}): {exc}")
             continue
-
-    # 2. Fetch from GDELT Global Live Wire
-    try:
-        req = urllib.request.Request(GDELT_URL, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=12) as resp:
-            data = json.loads(resp.read().decode("utf-8", errors="ignore"))
-        for art in data.get("articles", []):
-            title = (art.get("title") or "").strip()
-            if not title or len(title) < 20 or title.lower() in seen_titles:
-                continue
-            seen_titles.add(title.lower())
-            dt = datetime.now(timezone.utc)
-            stories.append({
-                "title": title,
-                "url": art.get("url") or "https://www.reuters.com/",
-                "sources": [art.get("domain") or "Global Wire"],
-                "publishedAt": dt.isoformat(),
-                "timeAgo": "Just now",
-                "impactScore": 8,
-                "currencyImpacts": detect_impacts(title),
-                "summaryEn": f"Live macro & geopolitical report ({art.get('domain', 'Wire')}): {title}."
-            })
-    except Exception:
-        pass
 
     stories.sort(key=lambda x: x["publishedAt"], reverse=True)
     return stories[:35]
 
 if __name__ == "__main__":
     now_utc = datetime.now(timezone.utc)
+    stories = fetch_all_stories()
     payload = {
         "updatedAt": now_utc.isoformat(),
-        "storyCount": 0,
-        "stories": fetch_all_stories()
+        "storyCount": len(stories),
+        "stories": stories
     }
-    payload["storyCount"] = len(payload["stories"])
     with open("feed.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     print(f"Saved {payload['storyCount']} fresh stories at {payload['updatedAt']}")
