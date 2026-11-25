@@ -1,15 +1,20 @@
 {
-  "updatedAt": "2026-11-25T19:56:12.015204+00:00",
+  "updatedAt": "2026-11-25T20:02:13.512298+00:00",
   "storyCount": 35,
   "stories": [
     {
-      "title": "The Beige Book – First District - Federal Reserve Bank of Boston",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcTNyYzVQZm13aDRHdDVUQlVVd3RicW5OUGExTW1CVE1URHFxQWJfREJXU2plSk41bXBESmtpUXpVZzM0Rk0zT0FZdkpvZnBHaWlDUWkyTXhuWHhEMFI3NWszdHMtY1hDZ2tQdEJZOUlaVi1LdDQ4QkZWdmZRQk9TcURqWnhDeEdIYkpxSWFySkhzX1dFU2NrVnZzY3duUXZQZUZzSkRXVFVsUVQ2OTFZYk5PX0xtX1Rqd0xLU1lialAyVjE1LVozQVdEcUhmVW8?oc=5",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
       "sources": [
-        "Federal Reserve & USD"
+        "Federal Reserve Press"
       ],
-      "publishedAt": "2026-11-25T19:48:35+00:00",
-      "timeAgo": "7m ago",
+      "publishedAt": "2026-11-25T20:00:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "2m ago",
+      "timeLabel": "2m ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -17,16 +22,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): The Beige Book – First District - Federal Reserve Bank of Boston."
+      "summaryEn": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
     },
     {
-      "title": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWV5eGNLVEd2LU00RkQ2VlpWbGJqam5RUEVQd0dmN1lRYjBZOGVCYmxwTG5XV1huU3RfR2hNN0tuRV9iSW5NY2NxUUhsS1JORF90dF9wTnJBYTF5VEI3Y3BMd1luV2lMSFJseXdTQTVNTVk3eFRFdjM1ZWpmYVdCN0lnNEoxMWV3bUxFbjl0RVRDSmtidEhvS08wN29xRElHcVBiX2ZNa1l6bU5sWjB5NzFR?oc=5",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
       "sources": [
-        "Federal Reserve & USD"
+        "Federal Reserve Press"
       ],
-      "publishedAt": "2026-11-25T19:35:50+00:00",
-      "timeAgo": "20m ago",
+      "publishedAt": "2026-11-25T20:00:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "2m ago",
+      "timeLabel": "2m ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -34,16 +44,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures - Bloomberg."
+      "summaryEn": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
     },
     {
-      "title": "Fed survey shows continued growth and sticky inflation in recent weeks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
+      "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+      "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
       "sources": [
-        "Federal Reserve & USD"
+        "MarketWatch Top Stories"
       ],
-      "publishedAt": "2026-11-25T19:19:43+00:00",
-      "timeAgo": "36m ago",
+      "publishedAt": "2026-11-25T19:39:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "23m ago",
+      "timeLabel": "23m ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -51,33 +66,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Fed survey shows continued growth and sticky inflation in recent weeks - Reuters."
+      "summaryEn": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy."
     },
     {
-      "title": "UK food inflation could hit 5% next year, Bank of England says - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclRfTzFMOTdzbndFN2FFTmlteEpLdGJaNHdSX0NCMnpPUzBXVWhmT2daX0pWdEY3QzE0YXNuZzFHMUlkT2gwTWhENngydEtOU3hxQjVMMjZLa0hwNVJJSWI3N2VLSXhESE1yX3lWTVc5NHdKX1plbmZYdjJkeTVPdDZ1VFdnM0ZvZHVmako2ampybWduSWRfakdDdWNRQXI4ZXBwWFRWaWhRYm93MS1LdldWdGxOeV80bVVZS0tKblM5OTk2d2c?oc=5",
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
       "sources": [
-        "ECB / BoE / BoJ / RBA"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T19:13:00+00:00",
+      "publishedAt": "2026-11-25T19:19:05+00:00",
+      "daysAgo": 0,
       "timeAgo": "43m ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "GBP",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (ECB / BoE / BoJ / RBA): UK food inflation could hit 5% next year, Bank of England says - The Guardian."
-    },
-    {
-      "title": "Beige Book Finds Modest Growth amid Ongoing Cost Pressures - Federal Reserve Bank of Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQVZMcTduWkVIVEhGTFNhc19PWFlHMGxIci1xY2VTNmx2TnkwSTRfdTNJUHhybXVHZGNLNVpxaVRlNTh0YmJNOU9vcERJc2YzMHhzb2M4SVA3ekZpenpwY1dnVnF0NDY1Sll0bkd4aWZQSkkwcjZLSGlXOUZSMFVlR0hldDVJMGNaZzFCZExCUTlXWEJ4QzRmOEtaRVlaRjFLMlc2U1NJa0lVNG42eGMxeTUtNk5PVllwRl9laVZsRHo5RnE5aW1oWWJiZnAzWTJXbDhKZ0ZCUUQ?oc=5",
-      "sources": [
-        "Federal Reserve & USD"
-      ],
-      "publishedAt": "2026-11-25T19:07:48+00:00",
-      "timeAgo": "48m ago",
+      "timeLabel": "43m ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -85,16 +88,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Beige Book Finds Modest Growth amid Ongoing Cost Pressures - Federal Reserve Bank of Atlanta."
+      "summaryEn": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks."
     },
     {
-      "title": "The new geopolitics of religious soft power - Atlantic Council",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2dCY2h1WExDUHZlcEVCVG5QRDdvSmZBUkpwRXNzUEhTU0F0b0RZZDZsTU83ZUlLVzJkNXEzX0RFcnBKQ1poM3ZBQi1KUlliNUJwN1pPZnh2WFhTQ21IUVEtU1pLSE9zWWx1N0QyWXlxbExpckI5T1E0RlBqRzlrSm53ODFOSnJEdEE?oc=5",
+      "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
+      "url": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
       "sources": [
-        "Reuters / Google News FX"
+        "MarketWatch Top Stories"
       ],
-      "publishedAt": "2026-11-25T18:58:43+00:00",
-      "timeAgo": "57m ago",
+      "publishedAt": "2026-11-25T19:16:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "46m ago",
+      "timeLabel": "46m ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -102,37 +110,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): The new geopolitics of religious soft power - Atlantic Council."
+      "summaryEn": "Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009"
     },
     {
-      "title": "EIA: US crude oil inventories up 1.1 million bbl - Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVpjRkc1OW8tOGZCN3FZbmdCYVdxVVlQaUQzY2VwY3V4b1d0TWZQWnFCcFhLbTVRc3NrM21TZE55WU5pNGVSVjdVaHQ2S0g3azJCTkNaNTVWZUFQaFpSX1htLXQxQWhIN2d0NXBuVURUX1pLdFJISzNSdjZZeXl0WUprVXlvZm14VlUzTEkwNm5BcDNFR296Nk54UzYwZXpMVzRxVDBwajBaNVo1emNyUnpXaWVMQQ?oc=5",
+      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
       "sources": [
-        "Reuters / Google News FX"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T18:48:49+00:00",
+      "publishedAt": "2026-11-25T18:35:39+00:00",
+      "daysAgo": 0,
       "timeAgo": "1h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        },
-        {
-          "code": "CAD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): EIA: US crude oil inventories up 1.1 million bbl - Oil & Gas Journal."
-    },
-    {
-      "title": "Gia Powell hits from way downtown - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kUHRsNzNFOEZTVWZCbV9paEZOVGhkTjE1cDhTVTh6d1FOOWlCcWhaTTVCMzI4cmVjYzA4R0hLMHNSUm54ek05cjJJVHdpVkgtWG5BOFZpZERPeHcwS0gweVBVY1pzcGZQWVg2dWcwcGtXMjhvaG1VbFg1VHBVdmM?oc=5",
-      "sources": [
-        "Federal Reserve & USD"
-      ],
-      "publishedAt": "2026-11-25T18:26:15+00:00",
-      "timeAgo": "1h ago",
+      "timeLabel": "1h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -140,33 +132,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Gia Powell hits from way downtown - ESPN."
+      "summaryEn": "Gold fell to its lowest level in more ‌than a year after strong U.S. inflation data failed to assuage concerns surrounding the Federal Reserve's rate-hike path."
     },
     {
-      "title": "U.S. Probes Possible Iranian, Russian Links in Cyberattacks on up to 50 Commercial Ships - Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmYxaXprWWp3cnFtTHFNMktEQm9JcktJUTlyam5PQS1iNUI0bnBxRklpRUMwemMzalNlV29OQ3NZSUdtWkpScjZqUjQ1LWVvM0tCR1J6QUN3QUFQNTFKOVpta05SYU5KWGpSMFZTdndoRDZ4Y3pIQmZTOTVsaHBYM29XVmhMdw?oc=5",
+      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
       "sources": [
-        "Geopolitics & Oil"
+        "MarketWatch Top Stories"
       ],
-      "publishedAt": "2026-11-25T17:59:07+00:00",
-      "timeAgo": "1h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): U.S. Probes Possible Iranian, Russian Links in Cyberattacks on up to 50 Commercial Ships - Latin Times."
-    },
-    {
-      "title": "Father dies in 500-foot fall while helping son on icy California mountain trail - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlc1X25Tdy1YMmpMNmttZlpLZ3hiZUl6M2hFMkNCVlVkWGdjdl9Gb084YlBjRnl0c1l6VlBOZm5KUkhOX1dfTkMzcjY3TkJadDhwYnBvSmR1dXBnNi1tM2JTOFhUb0lDTC1fc2JvcmJEOTFfUVlmOXY1R1ROQXZyTVlPYng5cVZGYzhMbGtEa0FTN2R0UWFocmpHdE5UeGZJWEJOS1ZSWG4xNFFSZVl6QUhoRXlrVXdoRFcxTw?oc=5",
-      "sources": [
-        "Federal Reserve & USD"
-      ],
-      "publishedAt": "2026-11-25T17:54:00+00:00",
+      "publishedAt": "2026-11-25T17:31:00+00:00",
+      "daysAgo": 0,
       "timeAgo": "2h ago",
+      "timeLabel": "2h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -174,275 +154,43 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Father dies in 500-foot fall while helping son on icy California mountain trail - Los Angeles Times."
+      "summaryEn": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month."
     },
     {
-      "title": "Oil Futures Pick Up as Middle East Tensions Persist - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2lmRnNkZk4xMmU5a3lHTWEwV3JfZ2pfUW55aTJUNi04clZpa2E4dDJacWRnQVRjMzRFX3FfSFA1c203SFhvd0tHOTZWTUloNmhtTm91QS1raEwwNWJKaUpaZktCbGlFRzRlMXA1ZTFUVHZKWGMxVWswU0JyUWRSNEtxSFBBUnN2ZGxfazFpTEw2QkJpUC1WUHJ5TnRxaFVSa0VZaFJodmZrUkJZNXY0OEVsYXNGek4wTHp2OEczai0?oc=5",
+      "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
       "sources": [
-        "Geopolitics & Oil"
+        "ECB Press & Speeches"
       ],
-      "publishedAt": "2026-11-25T17:46:32+00:00",
+      "publishedAt": "2026-11-25T17:30:00+00:00",
+      "daysAgo": 0,
       "timeAgo": "2h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "CAD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): Oil Futures Pick Up as Middle East Tensions Persist - WSJ."
-    },
-    {
-      "title": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
-      "sources": [
-        "Geopolitics & Oil"
-      ],
-      "publishedAt": "2026-11-25T17:35:03+00:00",
-      "timeAgo": "2h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "CAD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): Oil prices rise over 1% after Houthis say they attacked Saudi refinery - Reuters."
-    },
-    {
-      "title": "Nocterra's Powell taproom reopens just in time for the holidays - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjUzNmF0UkF0QXZTU1g2SlpOUnNPZjZXeVktQ0lJRHdjUUQ5bW1vYWVmWndVVExDVnZPUFJtMDlzMWhmcGJMRTZlQVprY1FRQllrYXhQVzlmZmNDRXJrUllDZDRhbTdVSVpIWUxucFA1X3lJWkU2aFZiNzdLVElqVUxQeVQxRHdubnV3RkVWTzAwLTZYODlCZmRGbTFucFZzZ0E2XzI2R2xtVFZqODB4WUowUGM3VllhVTFpUDV0eWRsWTUycUd0c2JNaWFwR0dwNVE?oc=5",
-      "sources": [
-        "Federal Reserve & USD"
-      ],
-      "publishedAt": "2026-11-25T17:14:00+00:00",
-      "timeAgo": "2h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Nocterra's Powell taproom reopens just in time for the holidays - The Columbus Dispatch."
-    },
-    {
-      "title": "Bank of England Rate-Setters Leave December Hike on the Table - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWVoNk5lWFNOQzk4R0QwR0JNc2NPTlhEd1FqT29pRGVYZVRoSFoxdkFTRWJkcnhSOWZ3RnJDTDE3T3JGd3pDUDFrdlpwVDdaVnFNSzhHQml0VEh2ek55XzVvdEZHWHJ4OEI3dTRvR3RGQkFSNmpMbjZGMGo2NzhZOFNvNDRhc09oWEdLcHpjd3FkSWJodEg4S1ppR3NLdVpiQTRTSy1YVlZ3a2VlYlBFcFdn?oc=5",
-      "sources": [
-        "ECB / BoE / BoJ / RBA"
-      ],
-      "publishedAt": "2026-11-25T16:49:25+00:00",
-      "timeAgo": "3h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "GBP",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (ECB / BoE / BoJ / RBA): Bank of England Rate-Setters Leave December Hike on the Table - Bloomberg."
-    },
-    {
-      "title": "Lake Powell Snowpack Today: 85% of Median (Updated Daily) - www.lakepowellwaterlevel.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92R3h0ZzdqSU1oU2h0TGtUTHRIT0NVSWRFWHM4NjdTeEo2WjNLODNPektyWGlhVThITWdkQVBHZlp2V25pdl9SOUZQa2N2cURUZE9ocW1MWmwxZ2NZU2syNld0cV9CRkg2?oc=5",
-      "sources": [
-        "Federal Reserve & USD"
-      ],
-      "publishedAt": "2026-11-25T16:45:56+00:00",
-      "timeAgo": "3h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Lake Powell Snowpack Today: 85% of Median (Updated Daily) - www.lakepowellwaterlevel.com."
-    },
-    {
-      "title": "U.S. Crude Oil Stockpiles Rise for Third Straight Week - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmNaUEswZFFHWkVEYVY0NUZVU0xoTVdwcEU3cDd1Z1RWRnN0RnRIeExlbEtrNXNUSHhoQ1ZjU0VEWVZ4Um5FSjMtcmNuXzM1ZTRodnJ6Ti1tUFA1U2VRbEJ3UEZ0VHNkVmJoM1psMnF1ZGZScndxa0l6bElITFpoM1k5MV9FSHpCclB1TmtOZ3BPeWt4V3R1SXBkRmFMYU0xbmxHeA?oc=5",
-      "sources": [
-        "Reuters / Google News FX"
-      ],
-      "publishedAt": "2026-11-25T16:29:00+00:00",
-      "timeAgo": "3h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "CAD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): U.S. Crude Oil Stockpiles Rise for Third Straight Week - WSJ."
-    },
-    {
-      "title": "BoE's Bailey sees lower inflation peak if energy prices stabilise - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmItUFQ0TDJDczBHR3RFWDhnTWd1MkVMcjcwOVAwSmxxYTNqcWlqUEpYY21kZXFnUWtBMndyWW9JeUtHdVB1dV9hVUtMQUtVcDVFTk9XLW5McVNxcnNCdGpOd3oyTDBlbnJpQndONWpFNVRSYk40R2gycHVIQ0p1blVGWmFDeS1CdUxEZ3FvcThZZHZmWENsODYzY1M4UklWVU5SLWI2NGwyLVhFSGc?oc=5",
-      "sources": [
-        "ECB / BoE / BoJ / RBA"
-      ],
-      "publishedAt": "2026-11-25T16:20:48+00:00",
-      "timeAgo": "3h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "GBP",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (ECB / BoE / BoJ / RBA): BoE's Bailey sees lower inflation peak if energy prices stabilise - Reuters."
-    },
-    {
-      "title": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHhrZm1tQTYxWjR1eGU5NGtTWk1Wc1Fvd1JEc3hSdWFiLWtXZDBhem8yYlRieVBydDVlWmlQckM3R1VsOU54alZOcVR5XzU1cUVncGRjYnlRR3ByMkZMdlFiTlZRaWxyUl9fb0MxeHBCamYtdG8zX2lmXzJaR0xEaG5pTWpOVndsUVk4OXhZRmxUYWhFelBFOTZnNHo2WVd3ajJTVy0xYVc5YW1QSEVLOUlCU1NaMndUTkw4TW5fdTUwZ1RU?oc=5",
-      "sources": [
-        "Geopolitics & Oil"
-      ],
-      "publishedAt": "2026-11-25T15:01:35+00:00",
-      "timeAgo": "4h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "CAD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy - Anadolu Ajansı."
-    },
-    {
-      "title": "India central bank raises share of domestically held gold reserves, data shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEMwcHFHV3NkQ1FrTkJiMlUzNGdYVjJ1aXA3YXI0OVlMbWk3cEp3T3Z0ZHhvMUNVZ0k3bjc1bm81T0pnd2V0ZWU3ZjBCeDVDQ1Q0dGhZOGprTUhHeDZDMzlQWXpSQkF5Vkk5UTMwTTNSeDNvVGZsNHZSeE1CNHMzalBfZUZIZjlqNWl1V2pleDdCVHJwLUkwRFRqc2F0czF6ZmlLZWlrS0U2QU5jeThVNGJJb0M5UlJOVHA3aDFxNA?oc=5",
-      "sources": [
-        "Reuters / Google News FX"
-      ],
-      "publishedAt": "2026-11-25T14:36:07+00:00",
-      "timeAgo": "5h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): India central bank raises share of domestically held gold reserves, data shows - Reuters."
-    },
-    {
-      "title": "Hyperscaler Debt Boom Seen as Risk by S. Africa Central Bank - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQy1YMTNmVTI1dlBUS1pfM3BiVWJjRllFZkVldVp1YTFIbzFraDFXcnlTbXhLc3ZOeGtIYjd3TVdVN3FYeVZHSmNvbUl4WWhBNjZTTDJpM3poaUJLU1hEVVk4RWRyYkM4STE2ejg0SkhLM0xNOElZVko1dWFjYk9KQzFTamgyRkdRSzdqbm4zdjBRVkI1Y3VXaDJnR2FpYTlKQnFJczlvZGFvRnd4RndQcEhDZEE?oc=5",
-      "sources": [
-        "Reuters / Google News FX"
-      ],
-      "publishedAt": "2026-11-25T14:18:12+00:00",
-      "timeAgo": "5h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): Hyperscaler Debt Boom Seen as Risk by S. Africa Central Bank - Bloomberg."
-    },
-    {
-      "title": "Crude Oil, DJIA Outlook: Oil Risks Rebound, Dow Holds Gains - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU19NLWR5djZMVGpZUjlTSGd5djA3QTJPT3VzRWZ0SkpLWU03T2FxdGR1emxvSzNYSHIzOWVNLVN3cUYxRlNLcUcwS0RHLXp0ajlOSGtDcERJbkZ3bDNqN0JycXp2Si1ZVnczWTZMYy1SSVhZVlgxOWd6MnY0S0trYlNvWFI2UkxteTRqelV0Mk9vNWdRQmdoUFdMLS1JT0NzTVVFMEVn0gGyAUFVX3lxTFB4TU1jbURYQWJ4bDBhZFdndVZDRnc0czFmU1loMzFrTnVSTkFWVGdDS285VGp5Z0lFanVZdFJHdUFCdEZ2UGtOX1BnZTZ3Y2ZBMWtWMWQtcVA2NGU3TDhZdmJ5VVBUa0FQakdRQzY0Z1RuVTNrSDN3ZXNRb0VEcF9UeDl4NHQ4cmZ2aDJEV3I3WkVnS1luRHIxemRmcThxWTBxWW1ZYjYwWTR3M0lRaU85Rnc?oc=5",
-      "sources": [
-        "Reuters / Google News FX"
-      ],
-      "publishedAt": "2026-11-25T13:38:32+00:00",
-      "timeAgo": "6h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "CAD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): Crude Oil, DJIA Outlook: Oil Risks Rebound, Dow Holds Gains - FOREX.com."
-    },
-    {
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SREI2WkZTZTJWN0daalVYUlBFRVAtcUNzY3BybGN3dnJCUU1OR2dVRkNXMDRMWmtISWZSSkdNeFNGdm4xc2ZveGtVMmtnUFFqanhXbmhhcktZUWRrM1BpVUE0OU5ZNnNTOENfVDhoTmdWQWxNZGlFbXFR0gF_QVVfeXFMTmFSS3ViODJ4VUhoUF9pUHJwRldEZTlzTHoxRWt3djJQZGJLZ2R4dG9MSk9KaEZtbUp1a1ZwZjNMS0VJbDIyTldzcTlTblFKaWZ5LXJ0UXRMZERRbHNUZDdNYzV5UzVSV0pJYUhoVFh2T1psRElLZFlNUEVnUnBMaw?oc=5",
-      "sources": [
-        "Reuters / Google News FX"
-      ],
-      "publishedAt": "2026-11-25T13:31:45+00:00",
-      "timeAgo": "6h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank - CNBC."
-    },
-    {
-      "title": "IEA Report Assesses Potential Impacts of Middle East War on Global Oil & Gas Markets - Industrial Info Resources",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0F6UkJKOWcteURSemFHN1o0TnJjQzZWTDFSdnpGQXNsUnFMakRUWC1aRTd5bVFidm9mcFp6cEd2SjJlbTlVS1FFc2Q5MmFMa1U0TndTN3NwUkU0ZDlld2RuNGF5Z2NQWm9qRmktN3FRdVNXQ2NDOEt6bVJOUF83cTVrc2tQcm5fdVYzbUdMMHdCZjZQVWxDNUdpbWtLWGVBWDdDQ0NjWWNvbTRNVFAtNUdHT3RHYzVSdFJDNUQ3cS1wSlh4UG9VbDg0SEk3VkJTdVlVWg?oc=5",
-      "sources": [
-        "Geopolitics & Oil"
-      ],
-      "publishedAt": "2026-11-25T13:27:11+00:00",
-      "timeAgo": "6h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "CAD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): IEA Report Assesses Potential Impacts of Middle East War on Global Oil & Gas Markets - Industrial Info Resources."
-    },
-    {
-      "title": "Nigeria holds interest rate before January elections - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTEwNmFsRVgwbXlsSXllbUFiLVBNNXJjZ2dtTVFOdEV1VzBPbWhBczJ4MktHVnRHUzJIX1had2xuRW5iOXBVYzdzdG9VS0hhb2t2UnJZRnJtdDY3UTc5V3RaZFpPY1BHaTRMWHREc3hVMFE0dVFJUS0zbmZkTGZjYWtaZjJvMDR4NWFMQVNtWnhWM0VnX3JLYVlvaU56ekVaYlRJU1k4SjBsZGdC?oc=5",
-      "sources": [
-        "Reuters / Google News FX"
-      ],
-      "publishedAt": "2026-11-25T13:13:00+00:00",
-      "timeAgo": "6h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): Nigeria holds interest rate before January elections - Semafor."
-    },
-    {
-      "title": "Europe's DLT Moment Arrives: ECB, SNB and Nasdaq Rewire the Plumbing of Global Markets - FinanceX Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0N6cWVLRDRVRlNjRENybTJYbEE2UTA3Zl94Zy1aaVNCcy1BZTBrZTlzMmFNalFIQld4UFpCd2FFVkluTUZhdTVJTE1jakhHYkZ2azZxLXFTeFRnUDNIVVloODBKSFctcm5mdjhiUXU2TnNqMDBia1ZyeHpuZkltdHhzUTBISnNjRTQ1OTlQRHFFemZvTUp0SzdQaDBmNmdQa1hnajk5bUFFeXJpaVpKQ0VUZWdyaTloYXRvbmktVQ?oc=5",
-      "sources": [
-        "ECB / BoE / BoJ / RBA"
-      ],
-      "publishedAt": "2026-11-25T13:05:30+00:00",
-      "timeAgo": "6h ago",
+      "timeLabel": "2h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
           "code": "EUR",
           "dir": "BULLISH"
-        },
-        {
-          "code": "CHF",
-          "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (ECB / BoE / BoJ / RBA): Europe's DLT Moment Arrives: ECB, SNB and Nasdaq Rewire the Plumbing of Global Markets - FinanceX Magazine."
+      "summaryEn": "Live wire (ECB Press & Speeches): ECB and Sveriges Riksbank conclude agreement for Sweden to join T2."
     },
     {
-      "title": "Speech by Vice Chair for Supervision Bowman on modernizing banking supervision: a shared agenda for the Americas - Federal Reserve (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Mkd3YWZlb04wQkQ1M1hFUDU1a1VvUHAxOHhSTlo3Z05rbEtfUFBITHRwZkN0MnJUT1dkOHJtZmN1bThIc2pueWZtUFA3eENOdV9SdEtaSGNyaHhlczRjd0ViY1M5MWVSdkg3V1ZJOERiWVN6dEhB?oc=5",
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "sources": [
-        "Federal Reserve & USD"
+        "CNBC Economy & Central Banks"
       ],
-      "publishedAt": "2026-11-25T12:29:21+00:00",
-      "timeAgo": "7h ago",
+      "publishedAt": "2026-11-25T16:17:13+00:00",
+      "daysAgo": 0,
+      "timeAgo": "3h ago",
+      "timeLabel": "3h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -450,33 +198,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Speech by Vice Chair for Supervision Bowman on modernizing banking supervision: a shared agenda for the Americas - Federal Reserve (.gov)."
+      "summaryEn": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
     },
     {
-      "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Renewed Middle East Tensions - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FiM3ZZeEN6OGFxalRYTGdMTF8zc3RTWmVNdWZLLXJXWnRmR2FHN1BZamN6N3RCTEJBTWxDcGhuV19BdElHUzg4eHMtUmxOT29sVllCNmYwMlFnNm52Zkhwa0xlcXNCX19TQU5ESmM3eEgtMUhVS1JUcTZTX0lyZVprLVlPSXZJRVotbzBUWQ?oc=5",
+      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "sources": [
-        "Geopolitics & Oil"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T12:27:00+00:00",
-      "timeAgo": "7h ago",
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "CAD",
-          "dir": "BEARISH"
-        }
-      ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): Oil Prices Fall as Traders Weigh Supply Outlook, Renewed Middle East Tensions - Yahoo Finance."
-    },
-    {
-      "title": "Oil Prices Slip as Global Supply Surplus Concerns Offset Middle East Shipping Risks - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0NVal9fZE94ZHRqZXdMREg2eVNJbUk0SDhzT0hXNXkydVM2NnVHUXlFMmtvemJsMHMyLXY3dVhwMzhpSGhlMlhBeU1qa2NJYlVjLXNwRlZwdFBDa2xiRkdoOE9FcXpneVUzcEZIYTluX1l3ajJ1eFBMMUNiYkpwOHNwZnFGT0NEZHpPdlJxNGI3aWY0MVAyUW0ydTlYal9YSkFIU1JGQWlScUZkVnhEd0lHM00?oc=5",
-      "sources": [
-        "Geopolitics & Oil"
-      ],
-      "publishedAt": "2026-11-25T11:30:00+00:00",
-      "timeAgo": "8h ago",
+      "publishedAt": "2026-11-25T16:02:52+00:00",
+      "daysAgo": 0,
+      "timeAgo": "3h ago",
+      "timeLabel": "3h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -484,58 +220,135 @@
           "dir": "BULLISH"
         },
         {
-          "code": "CAD",
+          "code": "AUD",
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): Oil Prices Slip as Global Supply Surplus Concerns Offset Middle East Shipping Risks - EnergyNow.com."
+      "summaryEn": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce."
     },
     {
-      "title": "ECB reports card payments surpass cash in shops for the first time - FashionNetwork France",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVE93UHhFYklaZXZfN2V5WFV3emdZUkFGTXF6QWlONTdfTmV6VjgzcmFDdnZxUndrTVVsd0Z3N25mR3VyRTNpWldhc2ItT2t4ZnRTdGFMdjBIcTQ2d0dpSUExT2xYVThxd3RGZGZZYVJrRFRxVUplb1ZsdnA3YUlaeWo3MEJDQmlzRFphamNTX2g3d185M0tyRWg5dW1nalhDTFRTYnhmM0NfTmx6dUgwcjJGWG8?oc=5",
+      "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
       "sources": [
-        "ECB / BoE / BoJ / RBA"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T10:48:17+00:00",
-      "timeAgo": "9h ago",
+      "publishedAt": "2026-11-25T14:24:04+00:00",
+      "daysAgo": 0,
+      "timeAgo": "5h ago",
+      "timeLabel": "5h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The Norwegian low-cost carrier said its situation is dependent on securing financing for its short-term liquidity needs."
+    },
+    {
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-25T14:18:45+00:00",
+      "daysAgo": 0,
+      "timeAgo": "5h ago",
+      "timeLabel": "5h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus."
+    },
+    {
+      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-25T12:26:41+00:00",
+      "daysAgo": 0,
+      "timeAgo": "7h ago",
+      "timeLabel": "7h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh."
+    },
+    {
+      "title": "Card payments edge past cash in shops; euro area consumers want both",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+      "sources": [
+        "ECB Press & Speeches"
+      ],
+      "publishedAt": "2026-11-25T10:00:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "10h ago",
+      "timeLabel": "10h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
           "code": "EUR",
           "dir": "BULLISH"
-        },
-        {
-          "code": "CHF",
-          "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (ECB / BoE / BoJ / RBA): ECB reports card payments surpass cash in shops for the first time - FashionNetwork France."
+      "summaryEn": "Live wire (ECB Press & Speeches): Card payments edge past cash in shops; euro area consumers want both."
     },
     {
-      "title": "Federal Reserve Bank of Dallas Projects Inflation Lasting Well into Next Year - Industrial Info Resources",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGdmbmkyeHVHQUFzTjhIYWJFNFh1WFdvaGtrSG41bXBKUWlQTWdLRlZ4Uk80bnk1N0doWUhRd1V2SERCQ2p0TzNfdnN5aWVZYUdsajFLWVUzTGE5ZFA5RjVtMFplSVVkelhVUF9VY0poLVQta0pfdlRzX2ZiY2VFR2d5ZTUyZVVYNGxqbFZEa2dWa2ZKSlNjTUpUODdPdW82OFAxWVdRRGhOQlNWUGhZWkFyX0hWNFdkNjdNTmJsRWNMWXRsbWR6OA?oc=5",
+      "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
+      "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
       "sources": [
-        "Federal Reserve & USD"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T10:07:10+00:00",
-      "timeAgo": "9h ago",
+      "publishedAt": "2026-11-25T09:18:37+00:00",
+      "daysAgo": 0,
+      "timeAgo": "10h ago",
+      "timeLabel": "10h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
-          "code": "USD",
+          "code": "CAD",
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Federal Reserve & USD): Federal Reserve Bank of Dallas Projects Inflation Lasting Well into Next Year - Industrial Info Resources."
+      "summaryEn": "Ukraine’s foreign minister told Putin to end the war if he wants Kyiv to stop attacking Russian refineries, after Putin said retaliation was “inevitable.”"
     },
     {
-      "title": "Book Review: Afghanistan Amid Rival Geopolitics - Small Wars Journal",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT19qdTVUVDN4OFlPQWtWWTgtcHZfakR5Z3lCQ0FMb0xObmMyWW1xQV9tTVVUeU1EdmNyQUtxUXZodmJmY3k0ZkdBMXloVXJnakE5LXk5cjVyTFEzMVNtSTFXbTJSdEd5RHpCWlhxY3JEdk1ocC1LaEJtemZEOUNWSHg2T3hGR0VKNjgwLXVzTFA?oc=5",
+      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
       "sources": [
-        "Reuters / Google News FX"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T06:22:07+00:00",
+      "publishedAt": "2026-11-25T06:29:46+00:00",
+      "daysAgo": 0,
       "timeAgo": "13h ago",
+      "timeLabel": "13h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -543,50 +356,135 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Reuters / Google News FX): Book Review: Afghanistan Amid Rival Geopolitics - Small Wars Journal."
+      "summaryEn": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds."
     },
     {
-      "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzVja24xOVQyZ3ZCb0dkN2xfUWpJMGQzQWEyeGJxUmVyZDNSU0FoTmhUbnVXajE1LVB2c0VDT2F0M3ktQkpNczJ5RW03ZlF1RE5LQzEzTGUzdEJSZ0RQVE9KTWViSGNPMHUzbWJGSGs5cmlJVGNwMi1rNnUyVWd1a1dRdUZUMi1NUWl5UUVfcTdLazJ4UVBRMzF1bWUtZnh5M01uMXVEbVVaWWZVaXFYUG02MNIBuAFBVV95cUxQLVVobEFZYkg3aDlyY1Fmc3RZYmk5NnpGN00wb3hkUkRQbldmRVZCVG1ORXFRM3FLeGZEQzZDQmFhWUhoRTFXNEZpa21zZ0F5RnVuUXgyMjhYS0gzRl9xNlU1b25jTW5zemg4X0hPRXI5TEI0NnI2MVp6dV9lbTAyUG1GZzZ5a2ZhaWQxWHBrbC1vRy1RcmVsN0dHTW1sZk81dUl1UkI4anctVXh3OXlYbkttcGRPWGcw?oc=5",
+      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
       "sources": [
-        "Geopolitics & Oil"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T05:50:00+00:00",
-      "timeAgo": "14h ago",
+      "publishedAt": "2026-11-25T02:36:43+00:00",
+      "daysAgo": 0,
+      "timeAgo": "17h ago",
+      "timeLabel": "17h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
-          "code": "CAD",
+          "code": "USD",
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com."
+      "summaryEn": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties."
     },
     {
-      "title": "Oil prices rise after Houthis say they attacked Saudi refinery - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sRU8tcFZoX2s0ckhDanczdzFPYndhQW9yeWdHdm51MlI2TElhR1MwM1I2MElSeGhmbzhiRk1Bamh0MGdBbE1FSkpnSjRNMXJseEVSZnZpMUhBUFRIY0JxNXIzUmtZSmptQmlQMGhreFRXdENfZ1d6UdIBfkFVX3lxTE5sVkRYS2FOQ1VncmwyVlgxNEpDWEtzaS15SlVVUTR1bThrMlRqT053QTAtTnlLYk1mRTdhWWtlbXFLZmZqa1pFc2xTdGwwcjlvc1RGRk9HVFpVaHQxVktfSXFfbTIyRWVTWWowOUhiNGN0WUg1WVNXSkx0MU8xUQ?oc=5",
+      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
       "sources": [
-        "Geopolitics & Oil"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T05:05:08+00:00",
-      "timeAgo": "14h ago",
+      "publishedAt": "2026-11-24T22:18:47+00:00",
+      "daysAgo": 0,
+      "timeAgo": "21h ago",
+      "timeLabel": "21h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
-          "code": "CAD",
+          "code": "USD",
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (Geopolitics & Oil): Oil prices rise after Houthis say they attacked Saudi refinery - CNBC."
+      "summaryEn": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know."
     },
     {
-      "title": "Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmRBajJxMERjT2NNMmJNLXFaRzYtcE1KaFlPaWpZb0I5LWdQcmE3M3BDbV8yejJsRVAzeXFiWGUybXBzMTFlTDdrbnVWX3pDaVFTQS13V2pqYXpQUDY5YWlyNV9IU25jU183U29ZQ0ZNNHB0dmdQVjZNaGQ4MEZ6cWZ3LUs?oc=5",
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
       "sources": [
-        "ECB / BoE / BoJ / RBA"
+        "Federal Reserve Press"
       ],
-      "publishedAt": "2026-11-25T05:01:50+00:00",
-      "timeAgo": "14h ago",
+      "publishedAt": "2026-11-24T19:00:00+00:00",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Minutes of the Board&#39;s discount rate meetings on October 19 and October 28, 2026"
+    },
+    {
+      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-24T18:34:43+00:00",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3."
+    },
+    {
+      "title": "Why France is at risk of recession — and what could keep it out of one",
+      "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-24T11:15:30+00:00",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        },
+        {
+          "code": "CHF",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity."
+    },
+    {
+      "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+      "sources": [
+        "ECB Press & Speeches"
+      ],
+      "publishedAt": "2026-11-24T11:00:00+00:00",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -594,16 +492,21 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (ECB / BoE / BoJ / RBA): Eurozone capitals seek consolation prize for Klaas Knot to avoid ECB vote - Financial Times."
+      "summaryEn": "Live wire (ECB Press & Speeches): Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe."
     },
     {
-      "title": "Inflation jumps to 4.9% as fuel prices surge, but the RBA should hold rates steady - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPck1WYWtSVW9FUWQzSHhmQkxtZkpKMnBIVUZGbE5UOTRFLUl5d0JZSUVIa00wYktvV2JBMUJWS3l6a2p0Rm9rMEsyb0NtSUVsU2JmTHNkdHlqZzU3OWJxdW9uc3otakRVYjRoY3RCMVQ0N25uMHlNYU1KOTc4OGFRZ1JLQ242NzZNQ21CQzFlWDlTdjY4NzVnekl4MURmQzVyOXhxN3J0SjZxTm1WekxYQ2NhLXI2dw?oc=5",
+      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
       "sources": [
-        "ECB / BoE / BoJ / RBA"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T02:46:00+00:00",
-      "timeAgo": "17h ago",
+      "publishedAt": "2026-11-23T23:00:01+00:00",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
@@ -611,7 +514,275 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live institutional wire (ECB / BoE / BoJ / RBA): Inflation jumps to 4.9% as fuel prices surge, but the RBA should hold rates steady - The Conversation."
+      "summaryEn": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones."
+    },
+    {
+      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-23T21:00:59+00:00",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        },
+        {
+          "code": "AUD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course"
+    },
+    {
+      "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "sources": [
+        "ECB Press & Speeches"
+      ],
+      "publishedAt": "2026-11-23T10:00:00+00:00",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Live wire (ECB Press & Speeches): ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral."
+    },
+    {
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "sources": [
+        "Federal Reserve Press"
+      ],
+      "publishedAt": "2026-11-20T21:15:00+00:00",
+      "daysAgo": 4,
+      "timeAgo": "4d ago",
+      "timeLabel": "4d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Federal Reserve announces College Fed Challenge winners"
+    },
+    {
+      "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-20T21:07:08+00:00",
+      "daysAgo": 4,
+      "timeAgo": "4d ago",
+      "timeLabel": "4d ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates."
+    },
+    {
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "sources": [
+        "Federal Reserve Press"
+      ],
+      "publishedAt": "2026-11-20T15:00:00+00:00",
+      "daysAgo": 5,
+      "timeAgo": "5d ago",
+      "timeLabel": "5d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances"
+    },
+    {
+      "title": "Christine Lagarde: Acting in time",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "sources": [
+        "ECB Press & Speeches"
+      ],
+      "publishedAt": "2026-11-20T08:30:00+00:00",
+      "daysAgo": 5,
+      "timeAgo": "5d ago",
+      "timeLabel": "5d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Live wire (ECB Press & Speeches): Christine Lagarde: Acting in time."
+    },
+    {
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-20T01:49:03+00:00",
+      "daysAgo": 5,
+      "timeAgo": "5d ago",
+      "timeLabel": "5d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "JPY",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists."
+    },
+    {
+      "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-19T20:21:10+00:00",
+      "daysAgo": 5,
+      "timeAgo": "5d ago",
+      "timeLabel": "5d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage."
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+      "sources": [
+        "Federal Reserve Press"
+      ],
+      "publishedAt": "2026-11-19T16:00:00+00:00",
+      "daysAgo": 6,
+      "timeAgo": "6d ago",
+      "timeLabel": "6d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp"
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "sources": [
+        "Federal Reserve Press"
+      ],
+      "publishedAt": "2026-11-18T19:00:00+00:00",
+      "daysAgo": 7,
+      "timeAgo": "7d ago",
+      "timeLabel": "7d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
+    },
+    {
+      "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+      "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-18T07:57:37+00:00",
+      "daysAgo": 7,
+      "timeAgo": "7d ago",
+      "timeLabel": "7d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "GBP",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "It put the U.K.'s annual inflation rate at a 1-year high."
+    },
+    {
+      "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+      "sources": [
+        "ECB Press & Speeches"
+      ],
+      "publishedAt": "2026-11-17T18:30:00+00:00",
+      "daysAgo": 8,
+      "timeAgo": "8d ago",
+      "timeLabel": "8d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Live wire (ECB Press & Speeches): Philip R. Lane: The practice and science of monetary policy communication: the ECB experience."
     }
   ]
 }
