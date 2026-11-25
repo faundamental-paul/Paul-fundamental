@@ -1,15 +1,67 @@
 {
-  "updatedAtMs": 1795635021323,
+  "updatedAtMs": 1795635665976,
   "stories": [
     {
-      "id": "auto-3623841666319572633",
+      "id": "auto-6114904157819635722",
+      "title": "Oil Flows in Hormuz Strait 'Forever Altered,' Says Tom Kloza",
+      "sources": [
+        "Bloomberg Markets"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/oil-flows-in-hormuz-strait-forever-altered-says-kloza-video",
+      "category": "BANKS",
+      "publishedMs": 1795635665976,
+      "impactScore": 8,
+      "horizonType": "MEDIUM",
+      "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
+      "horizonReason": "Auto-ingested from live institutional wire (Bloomberg/Reuters/Central Bank RSS).",
+      "summaryEn": "Tom Kloza, chief energy advisor to Gulf Oil, said that he expects a 'major head fake' from the oil market as the 'seeds' for the next oil rally have been planted and could take gas and diesel prices back up in the beginning of 2027.  Kloza also discussed the continued impact that war with Iran has had on the oil market, and said that his ",
+      "keyTakeaways": [
+        "Auto-synced from live wire.",
+        "Recalculates Risk-On/Off, 1\u2013100 Strength & G8 bias automatically."
+      ],
+      "currencyImpacts": [
+        {
+          "code": "XAU",
+          "dir": "BULLISH"
+        }
+      ],
+      "isSeed": false
+    },
+    {
+      "id": "auto-5960648970175681934",
+      "title": "Still Mispricing in Private Markets: Weinstein",
+      "sources": [
+        "Bloomberg Markets"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/still-mispricing-in-private-markets-weinstein-video",
+      "category": "BANKS",
+      "publishedMs": 1795635065976,
+      "impactScore": 8,
+      "horizonType": "MEDIUM",
+      "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
+      "horizonReason": "Auto-ingested from live institutional wire (Bloomberg/Reuters/Central Bank RSS).",
+      "summaryEn": "Adam Weinstein, president and & COO of New Mountain Capital, joins Scarlet Fu on \"Bloomberg Deals.\" They discuss the pricing of assets in private markets.\n\n (Source: Bloomberg)",
+      "keyTakeaways": [
+        "Auto-synced from live wire.",
+        "Recalculates Risk-On/Off, 1\u2013100 Strength & G8 bias automatically."
+      ],
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "isSeed": false
+    },
+    {
+      "id": "auto-3292776789960417015",
       "title": "Deal Fundamentals Remain Strong: Turk",
       "sources": [
         "Bloomberg Markets"
       ],
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/deal-fundamentals-remain-strong-turk-video",
       "category": "BANKS",
-      "publishedMs": 1795635021323,
+      "publishedMs": 1795634465976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -28,14 +80,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-1896988376292468890",
+      "id": "auto-2684250223494716081",
       "title": "Lower Multiples Will Bring PE Back: Kindler",
       "sources": [
         "Bloomberg Markets"
       ],
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/lower-multiples-will-bring-pe-back-kindler-video",
       "category": "BANKS",
-      "publishedMs": 1795634421323,
+      "publishedMs": 1795633865976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -54,14 +106,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-1916417648596945669",
+      "id": "auto-3691693688672758378",
       "title": "Stocks Pare AI-Driven Losses as Buyers Step In: Markets Wrap",
       "sources": [
         "Bloomberg Markets"
       ],
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
       "category": "BANKS",
-      "publishedMs": 1795633821323,
+      "publishedMs": 1795633265976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -80,14 +132,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-2342210613644017989",
+      "id": "auto-2684690902418370957",
       "title": "Copper Enters Bear-Market Territory as AI Fears Drive Sentiment",
       "sources": [
         "Bloomberg Markets"
       ],
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
       "category": "BANKS",
-      "publishedMs": 1795633221323,
+      "publishedMs": 1795632665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -106,66 +158,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-327260431428998003",
-      "title": "Nasdaq 100 Bounces Off Tech-Driven Lows as Dip Buyers Emerge",
-      "sources": [
-        "Bloomberg Markets"
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-      "category": "BANKS",
-      "publishedMs": 1795632621323,
-      "impactScore": 8,
-      "horizonType": "MEDIUM",
-      "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
-      "horizonReason": "Auto-ingested from live institutional wire (Bloomberg/Reuters/Central Bank RSS).",
-      "summaryEn": "The Nasdaq 100 Index trimmed losses that had briefly tipped the gauge into bear-market territory and the S&amp;P erased most of an earlier large decline, with dip buyers emerging even as doubts remained about the outlook for artificial intelligence.",
-      "keyTakeaways": [
-        "Auto-synced from live wire.",
-        "Recalculates Risk-On/Off, 1\u2013100 Strength & G8 bias automatically."
-      ],
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "isSeed": false
-    },
-    {
-      "id": "auto-1086928999432334980",
-      "title": "Army Blows Up Hazardous Material With Worst Fears Unrealized",
-      "sources": [
-        "Bloomberg Markets"
-      ],
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/army-blows-up-hazardous-material-in-iowa-video",
-      "category": "BANKS",
-      "publishedMs": 1795632021323,
-      "impactScore": 8,
-      "horizonType": "MEDIUM",
-      "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
-      "horizonReason": "Auto-ingested from live institutional wire (Bloomberg/Reuters/Central Bank RSS).",
-      "summaryEn": "The Army blew up five tons of hazardous materials stored at a facility in Iowa, with early indications suggesting planners had averted the worst-case scenario of a massive cloud of toxic lead wafting over surrounding communities. (Source: Bloomberg)",
-      "keyTakeaways": [
-        "Auto-synced from live wire.",
-        "Recalculates Risk-On/Off, 1\u2013100 Strength & G8 bias automatically."
-      ],
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "isSeed": false
-    },
-    {
-      "id": "auto-6783126665613517978",
+      "id": "auto-6637799654885449051",
       "title": "Strong growth and elevated inflation signal more Fed tightening",
       "sources": [
         "ING Think FX & Macro"
       ],
       "url": "https://think.ing.com/articles/strong-growth-and-elevated-inflation-signal-more-fed-tightening/",
       "category": "BANKS",
-      "publishedMs": 1795635021323,
+      "publishedMs": 1795635665976,
       "impactScore": 8,
       "horizonType": "LONG",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -184,14 +184,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-9168122534003699853",
+      "id": "auto-2244603746872329221",
       "title": "The US tariff wall keeps changing, but it isn\u2019t coming down",
       "sources": [
         "ING Think FX & Macro"
       ],
       "url": "https://think.ing.com/articles/the-us-tariff-wall-keeps-changing-but-it-isnt-coming-down/",
       "category": "BANKS",
-      "publishedMs": 1795634421323,
+      "publishedMs": 1795635065976,
       "impactScore": 8,
       "horizonType": "LONG",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -210,14 +210,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-4346185320001617485",
+      "id": "auto-3190770628833729407",
       "title": "Australia\u2019s CPI surprise keeps RBA on alert, but weak growth signals argue for patience",
       "sources": [
         "ING Think FX & Macro"
       ],
       "url": "https://think.ing.com/snaps/australia-cpi-surprise-keeps-rba-on-alert-but-weak-growth-signals-argue-for-patience/",
       "category": "BANKS",
-      "publishedMs": 1795633821323,
+      "publishedMs": 1795634465976,
       "impactScore": 8,
       "horizonType": "LONG",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -236,14 +236,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-7244328813609237279",
+      "id": "auto-1053392469121434667",
       "title": "The Commodities Feed: Oil shrugs off rising Middle East tensions",
       "sources": [
         "ING Think FX & Macro"
       ],
       "url": "https://think.ing.com/articles/the-commodities-feed-aluminium-squeeze-eases-after-lme-intervention/",
       "category": "BANKS",
-      "publishedMs": 1795633221323,
+      "publishedMs": 1795633865976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -262,14 +262,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-9090369054960738479",
+      "id": "auto-4208024651966403614",
       "title": "FX Daily: Full EMFX unwind underway",
       "sources": [
         "ING Think FX & Macro"
       ],
       "url": "https://think.ing.com/articles/fx-daily-full-emfx-unwind-underway/",
       "category": "BANKS",
-      "publishedMs": 1795632621323,
+      "publishedMs": 1795633265976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -288,14 +288,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-7009654212874124805",
+      "id": "auto-2192552471852679475",
       "title": "German economic rebound lost steam in the third quarter",
       "sources": [
         "ING Think FX & Macro"
       ],
       "url": "https://think.ing.com/snaps/german-gdp-q3-26-update/",
       "category": "BANKS",
-      "publishedMs": 1795632021323,
+      "publishedMs": 1795632665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -314,14 +314,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-6852386069090839521",
+      "id": "auto-4622104264331157729",
       "title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
       "sources": [
         "Federal Reserve Speeches"
       ],
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
       "category": "CB_PM",
-      "publishedMs": 1795635021323,
+      "publishedMs": 1795635665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -340,14 +340,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-1936716481279732293",
+      "id": "auto-3480201436309935903",
       "title": "Cook, The U.S. Economy in Global Context",
       "sources": [
         "Federal Reserve Speeches"
       ],
       "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
       "category": "CB_PM",
-      "publishedMs": 1795634421323,
+      "publishedMs": 1795635065976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -366,14 +366,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-4226524081470621331",
+      "id": "auto-6852248232580445773",
       "title": "Waller, Opening Remarks",
       "sources": [
         "Federal Reserve Speeches"
       ],
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
       "category": "CB_PM",
-      "publishedMs": 1795633821323,
+      "publishedMs": 1795634465976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -392,14 +392,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-1222868345433504567",
+      "id": "auto-5619607566846527862",
       "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
       "sources": [
         "Federal Reserve Speeches"
       ],
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
       "category": "CB_PM",
-      "publishedMs": 1795633221323,
+      "publishedMs": 1795633865976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -418,14 +418,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-2239670094818998149",
+      "id": "auto-9029104138530153476",
       "title": "Barr, Investing in America\u2019s Underserved Communities",
       "sources": [
         "Federal Reserve Speeches"
       ],
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
       "category": "CB_PM",
-      "publishedMs": 1795632621323,
+      "publishedMs": 1795633265976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -444,14 +444,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-6673234666048256692",
+      "id": "auto-5708170876638839483",
       "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
       "sources": [
         "Federal Reserve Speeches"
       ],
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
       "category": "CB_PM",
-      "publishedMs": 1795632021323,
+      "publishedMs": 1795632665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -470,14 +470,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-5481005675315566875",
+      "id": "auto-6571277533807296945",
       "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
       "sources": [
         "ECB Press & Speeches"
       ],
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
       "category": "CB_PM",
-      "publishedMs": 1795635021323,
+      "publishedMs": 1795635665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -496,14 +496,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-906654138446302397",
+      "id": "auto-1891713846219832616",
       "title": "Card payments edge past cash in shops; euro area consumers want both",
       "sources": [
         "ECB Press & Speeches"
       ],
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
       "category": "CB_PM",
-      "publishedMs": 1795634421323,
+      "publishedMs": 1795635065976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -522,14 +522,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-946545488677561058",
+      "id": "auto-4059739393810329602",
       "title": "Boris Vuj\u010di\u0107: Resilience in an age of shocks: lessons from central and eastern Europe",
       "sources": [
         "ECB Press & Speeches"
       ],
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
       "category": "CB_PM",
-      "publishedMs": 1795633821323,
+      "publishedMs": 1795634465976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -548,14 +548,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-2220844411754266042",
+      "id": "auto-3930711967253427004",
       "title": "Philip R. Lane: Climate change and monetary policy",
       "sources": [
         "ECB Press & Speeches"
       ],
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
       "category": "CB_PM",
-      "publishedMs": 1795633221323,
+      "publishedMs": 1795633865976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -574,14 +574,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-309216912608212667",
+      "id": "auto-4126953178902675551",
       "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
       "sources": [
         "ECB Press & Speeches"
       ],
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
       "category": "CB_PM",
-      "publishedMs": 1795632621323,
+      "publishedMs": 1795633265976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -600,14 +600,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-3652794763533669416",
+      "id": "auto-5704344528296318901",
       "title": "Christine Lagarde: Acting in time",
       "sources": [
         "ECB Press & Speeches"
       ],
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
       "category": "CB_PM",
-      "publishedMs": 1795632021323,
+      "publishedMs": 1795632665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -626,14 +626,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-4559355968786147025",
+      "id": "auto-8242411958563767535",
       "title": "Regulators implement growth-friendly securitisation reforms",
       "sources": [
         "Bank of England News"
       ],
       "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms",
       "category": "CB_PM",
-      "publishedMs": 1795635021323,
+      "publishedMs": 1795635665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -652,14 +652,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-7183461777612505772",
+      "id": "auto-2190250977394206980",
       "title": "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
       "sources": [
         "Bank of England News"
       ],
       "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
       "category": "CB_PM",
-      "publishedMs": 1795634421323,
+      "publishedMs": 1795635065976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -678,14 +678,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-8410283141106087098",
+      "id": "auto-4136710675317342146",
       "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
       "sources": [
         "Bank of England News"
       ],
       "url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
       "category": "CB_PM",
-      "publishedMs": 1795633821323,
+      "publishedMs": 1795634465976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -704,14 +704,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-9190003389878765399",
+      "id": "auto-1011820795495918784",
       "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
       "sources": [
         "Bank of England News"
       ],
       "url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
       "category": "CB_PM",
-      "publishedMs": 1795633221323,
+      "publishedMs": 1795633865976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -730,14 +730,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-1962384580013950209",
+      "id": "auto-490192802127314629",
       "title": "Minutes of the Market Participants Group meeting \u2013 18 November 2026",
       "sources": [
         "Bank of England News"
       ],
       "url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
       "category": "CB_PM",
-      "publishedMs": 1795632621323,
+      "publishedMs": 1795633265976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -756,14 +756,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-1380891733334618303",
+      "id": "auto-4565067225957538405",
       "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
       "sources": [
         "Bank of England News"
       ],
       "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
       "category": "CB_PM",
-      "publishedMs": 1795632021323,
+      "publishedMs": 1795632665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -782,14 +782,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-6700003669072727271",
+      "id": "auto-6544873657352564114",
       "title": "Don\u2019t \u2018backslide\u2019 on defense spending, senior US lawmaker tells Europe",
       "sources": [
         "Politico Europe"
       ],
       "url": "https://www.politico.eu/article/dont-backslide-on-defense-spending-senior-us-lawmaker-tells-europe-brendan-boyle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "category": "CB_PM",
-      "publishedMs": 1795635021323,
+      "publishedMs": 1795635665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -808,14 +808,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-3550796681808350108",
+      "id": "auto-6953241869334989368",
       "title": "French presidential hopeful Teddy Riner says Ukraine is \u2018not our war\u2019",
       "sources": [
         "Politico Europe"
       ],
       "url": "https://www.politico.eu/article/french-presidential-hopeful-teddy-riner-says-ukraine-is-not-our-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "category": "CB_PM",
-      "publishedMs": 1795634421323,
+      "publishedMs": 1795635065976,
       "impactScore": 8,
       "horizonType": "LONG",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -834,14 +834,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-6767863627066253294",
+      "id": "auto-2714927903420560111",
       "title": "Les centristes en qu\u00eate d\u2019un candidat",
       "sources": [
         "Politico Europe"
       ],
       "url": "https://www.politico.eu/podcast/playbook-paris-podcast/les-centristes-en-quete-dun-candidat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "category": "CB_PM",
-      "publishedMs": 1795633821323,
+      "publishedMs": 1795634465976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -860,14 +860,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-2436341398541920425",
+      "id": "auto-5451173139535502721",
       "title": "Macron threatens to stop negotiating EU budget after December",
       "sources": [
         "Politico Europe"
       ],
       "url": "https://www.politico.eu/article/emmanuel-macron-threatens-stop-negotiating-eu-budget-after-december/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "category": "CB_PM",
-      "publishedMs": 1795633221323,
+      "publishedMs": 1795633865976,
       "impactScore": 8,
       "horizonType": "LONG",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -886,14 +886,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-2809703584671820130",
+      "id": "auto-2579213726252654702",
       "title": "EU weist Trumps Argumente f\u00fcr neue Z\u00f6lle zur\u00fcck",
       "sources": [
         "Politico Europe"
       ],
       "url": "https://www.politico.eu/article/eu-weist-trumps-argumente-fuer-neue-zoelle-zurueck/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "category": "CB_PM",
-      "publishedMs": 1795632621323,
+      "publishedMs": 1795633265976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
@@ -912,14 +912,14 @@
       "isSeed": false
     },
     {
-      "id": "auto-3879225284754253851",
+      "id": "auto-5720563272038107242",
       "title": "UK will not offer equal tuition fees for EU students, says Burnham",
       "sources": [
         "Politico Europe"
       ],
       "url": "https://www.politico.eu/article/uk-will-not-offer-equal-tuition-fees-for-eu-students-says-andy-burnham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "category": "CB_PM",
-      "publishedMs": 1795632021323,
+      "publishedMs": 1795632665976,
       "impactScore": 8,
       "horizonType": "MEDIUM",
       "horizonLabel": "Long-Term: 14\u201345+ Days (Structural)",
