@@ -1,7 +1,161 @@
 {
-  "updatedAt": "2026-11-25T20:02:13.512298+00:00",
+  "updatedAt": "2026-11-26T02:42:10.574939+00:00",
   "storyCount": 35,
   "stories": [
+    {
+      "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-26T01:52:20+00:00",
+      "daysAgo": 0,
+      "timeAgo": "49m ago",
+      "timeLabel": "49m ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover."
+    },
+    {
+      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-26T01:50:21+00:00",
+      "daysAgo": 0,
+      "timeAgo": "51m ago",
+      "timeLabel": "51m ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists."
+    },
+    {
+      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-26T01:34:58+00:00",
+      "daysAgo": 0,
+      "timeAgo": "1h ago",
+      "timeLabel": "1h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said."
+    },
+    {
+      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-25T23:50:53+00:00",
+      "daysAgo": 0,
+      "timeAgo": "2h ago",
+      "timeLabel": "2h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Gold fell to its lowest level in more ‌than a year after strong U.S. inflation data failed to assuage concerns surrounding the Federal Reserve's rate-hike path."
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "sources": [
+        "MarketWatch Top Stories"
+      ],
+      "publishedAt": "2026-11-25T23:00:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "3h ago",
+      "timeLabel": "3h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "“My wife stopped working outside the home in 1970.”"
+    },
+    {
+      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-25T21:56:43+00:00",
+      "daysAgo": 0,
+      "timeAgo": "4h ago",
+      "timeLabel": "4h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?"
+    },
+    {
+      "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-25T21:04:57+00:00",
+      "daysAgo": 0,
+      "timeAgo": "5h ago",
+      "timeLabel": "5h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks."
+    },
     {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
@@ -10,8 +164,8 @@
       ],
       "publishedAt": "2026-11-25T20:00:00+00:00",
       "daysAgo": 0,
-      "timeAgo": "2m ago",
-      "timeLabel": "2m ago",
+      "timeAgo": "6h ago",
+      "timeLabel": "6h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -32,8 +186,8 @@
       ],
       "publishedAt": "2026-11-25T20:00:00+00:00",
       "daysAgo": 0,
-      "timeAgo": "2m ago",
-      "timeLabel": "2m ago",
+      "timeAgo": "6h ago",
+      "timeLabel": "6h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -47,116 +201,6 @@
       "summaryEn": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
     },
     {
-      "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-      "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-      "sources": [
-        "MarketWatch Top Stories"
-      ],
-      "publishedAt": "2026-11-25T19:39:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "23m ago",
-      "timeLabel": "23m ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy."
-    },
-    {
-      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-25T19:19:05+00:00",
-      "daysAgo": 0,
-      "timeAgo": "43m ago",
-      "timeLabel": "43m ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks."
-    },
-    {
-      "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
-      "url": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
-      "sources": [
-        "MarketWatch Top Stories"
-      ],
-      "publishedAt": "2026-11-25T19:16:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "46m ago",
-      "timeLabel": "46m ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009"
-    },
-    {
-      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
-      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-25T18:35:39+00:00",
-      "daysAgo": 0,
-      "timeAgo": "1h ago",
-      "timeLabel": "1h ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Gold fell to its lowest level in more ‌than a year after strong U.S. inflation data failed to assuage concerns surrounding the Federal Reserve's rate-hike path."
-    },
-    {
-      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-      "sources": [
-        "MarketWatch Top Stories"
-      ],
-      "publishedAt": "2026-11-25T17:31:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "2h ago",
-      "timeLabel": "2h ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month."
-    },
-    {
       "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
       "sources": [
@@ -164,8 +208,8 @@
       ],
       "publishedAt": "2026-11-25T17:30:00+00:00",
       "daysAgo": 0,
-      "timeAgo": "2h ago",
-      "timeLabel": "2h ago",
+      "timeAgo": "9h ago",
+      "timeLabel": "9h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -179,37 +223,15 @@
       "summaryEn": "Live wire (ECB Press & Speeches): ECB and Sveriges Riksbank conclude agreement for Sweden to join T2."
     },
     {
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "sources": [
-        "CNBC Economy & Central Banks"
-      ],
-      "publishedAt": "2026-11-25T16:17:13+00:00",
-      "daysAgo": 0,
-      "timeAgo": "3h ago",
-      "timeLabel": "3h ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
-    },
-    {
-      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
       "sources": [
         "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T16:02:52+00:00",
+      "publishedAt": "2026-11-25T17:28:24+00:00",
       "daysAgo": 0,
-      "timeAgo": "3h ago",
-      "timeLabel": "3h ago",
+      "timeAgo": "9h ago",
+      "timeLabel": "9h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -224,18 +246,18 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce."
+      "summaryEn": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers"
     },
     {
-      "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
-      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "sources": [
-        "CNBC World & Geopolitics"
+        "CNBC Economy & Central Banks"
       ],
-      "publishedAt": "2026-11-25T14:24:04+00:00",
+      "publishedAt": "2026-11-25T16:17:13+00:00",
       "daysAgo": 0,
-      "timeAgo": "5h ago",
-      "timeLabel": "5h ago",
+      "timeAgo": "10h ago",
+      "timeLabel": "10h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -246,7 +268,33 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "The Norwegian low-cost carrier said its situation is dependent on securing financing for its short-term liquidity needs."
+      "summaryEn": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
+    },
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-25T14:29:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "12h ago",
+      "timeLabel": "12h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        },
+        {
+          "code": "AUD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too."
     },
     {
       "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
@@ -256,8 +304,8 @@
       ],
       "publishedAt": "2026-11-25T14:18:45+00:00",
       "daysAgo": 0,
-      "timeAgo": "5h ago",
-      "timeLabel": "5h ago",
+      "timeAgo": "12h ago",
+      "timeLabel": "12h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -271,28 +319,6 @@
       "summaryEn": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus."
     },
     {
-      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-25T12:26:41+00:00",
-      "daysAgo": 0,
-      "timeAgo": "7h ago",
-      "timeLabel": "7h ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh."
-    },
-    {
       "title": "Card payments edge past cash in shops; euro area consumers want both",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
       "sources": [
@@ -300,8 +326,8 @@
       ],
       "publishedAt": "2026-11-25T10:00:00+00:00",
       "daysAgo": 0,
-      "timeAgo": "10h ago",
-      "timeLabel": "10h ago",
+      "timeAgo": "16h ago",
+      "timeLabel": "16h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -322,8 +348,8 @@
       ],
       "publishedAt": "2026-11-25T09:18:37+00:00",
       "daysAgo": 0,
-      "timeAgo": "10h ago",
-      "timeLabel": "10h ago",
+      "timeAgo": "17h ago",
+      "timeLabel": "17h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -344,8 +370,8 @@
       ],
       "publishedAt": "2026-11-25T06:29:46+00:00",
       "daysAgo": 0,
-      "timeAgo": "13h ago",
-      "timeLabel": "13h ago",
+      "timeAgo": "20h ago",
+      "timeLabel": "20h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -359,15 +385,15 @@
       "summaryEn": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds."
     },
     {
-      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
+      "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
       "sources": [
         "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-25T02:36:43+00:00",
+      "publishedAt": "2026-11-25T06:09:44+00:00",
       "daysAgo": 0,
-      "timeAgo": "17h ago",
-      "timeLabel": "17h ago",
+      "timeAgo": "20h ago",
+      "timeLabel": "20h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -378,7 +404,7 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties."
+      "summaryEn": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward."
     },
     {
       "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
@@ -387,9 +413,9 @@
         "CNBC World & Geopolitics"
       ],
       "publishedAt": "2026-11-24T22:18:47+00:00",
-      "daysAgo": 0,
-      "timeAgo": "21h ago",
-      "timeLabel": "21h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -495,37 +521,15 @@
       "summaryEn": "Live wire (ECB Press & Speeches): Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe."
     },
     {
-      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-23T23:00:01+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "AUD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones."
-    },
-    {
       "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
       "sources": [
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-23T21:00:59+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -571,9 +575,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-20T21:15:00+00:00",
-      "daysAgo": 4,
-      "timeAgo": "4d ago",
-      "timeLabel": "4d ago",
+      "daysAgo": 5,
+      "timeAgo": "5d ago",
+      "timeLabel": "5d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -593,9 +597,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-20T21:07:08+00:00",
-      "daysAgo": 4,
-      "timeAgo": "4d ago",
-      "timeLabel": "4d ago",
+      "daysAgo": 5,
+      "timeAgo": "5d ago",
+      "timeLabel": "5d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -659,9 +663,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-20T01:49:03+00:00",
-      "daysAgo": 5,
-      "timeAgo": "5d ago",
-      "timeLabel": "5d ago",
+      "daysAgo": 6,
+      "timeAgo": "6d ago",
+      "timeLabel": "6d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -681,9 +685,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-19T20:21:10+00:00",
-      "daysAgo": 5,
-      "timeAgo": "5d ago",
-      "timeLabel": "5d ago",
+      "daysAgo": 6,
+      "timeAgo": "6d ago",
+      "timeLabel": "6d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
