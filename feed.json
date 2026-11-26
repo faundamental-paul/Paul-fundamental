@@ -1,17 +1,83 @@
 {
-  "updatedAt": "2026-11-26T12:00:24.601232+00:00",
+  "updatedAt": "2026-11-26T22:10:44.770602+00:00",
   "storyCount": 35,
   "stories": [
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "sources": [
+        "MarketWatch Top Stories"
+      ],
+      "publishedAt": "2026-11-26T18:30:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "3h ago",
+      "timeLabel": "3h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "“My wife stopped working outside the home in 1970.”"
+    },
+    {
+      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-26T16:12:47+00:00",
+      "daysAgo": 0,
+      "timeAgo": "5h ago",
+      "timeLabel": "5h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution."
+    },
+    {
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-26T15:28:26+00:00",
+      "daysAgo": 0,
+      "timeAgo": "6h ago",
+      "timeLabel": "6h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year."
+    },
     {
       "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
       "sources": [
         "CNBC Economy & Central Banks"
       ],
-      "publishedAt": "2026-11-26T11:44:19+00:00",
+      "publishedAt": "2026-11-26T12:46:55+00:00",
       "daysAgo": 0,
-      "timeAgo": "16m ago",
-      "timeLabel": "16m ago",
+      "timeAgo": "9h ago",
+      "timeLabel": "9h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -32,8 +98,8 @@
       ],
       "publishedAt": "2026-11-26T11:17:39+00:00",
       "daysAgo": 0,
-      "timeAgo": "42m ago",
-      "timeLabel": "42m ago",
+      "timeAgo": "10h ago",
+      "timeLabel": "10h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -54,8 +120,8 @@
       ],
       "publishedAt": "2026-11-26T11:01:13+00:00",
       "daysAgo": 0,
-      "timeAgo": "59m ago",
-      "timeLabel": "59m ago",
+      "timeAgo": "11h ago",
+      "timeLabel": "11h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -69,28 +135,6 @@
       "summaryEn": "Startups Atoco and Ahbstra are moving water-from-air machines toward commercial use, including for data centers and drought-hit communities."
     },
     {
-      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-26T10:45:45+00:00",
-      "daysAgo": 0,
-      "timeAgo": "1h ago",
-      "timeLabel": "1h ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution."
-    },
-    {
       "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
       "sources": [
@@ -98,8 +142,8 @@
       ],
       "publishedAt": "2026-11-26T09:02:30+00:00",
       "daysAgo": 0,
-      "timeAgo": "2h ago",
-      "timeLabel": "2h ago",
+      "timeAgo": "13h ago",
+      "timeLabel": "13h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -120,8 +164,8 @@
       ],
       "publishedAt": "2026-11-26T08:59:11+00:00",
       "daysAgo": 0,
-      "timeAgo": "3h ago",
-      "timeLabel": "3h ago",
+      "timeAgo": "13h ago",
+      "timeLabel": "13h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -146,8 +190,8 @@
       ],
       "publishedAt": "2026-11-26T07:45:05+00:00",
       "daysAgo": 0,
-      "timeAgo": "4h ago",
-      "timeLabel": "4h ago",
+      "timeAgo": "14h ago",
+      "timeLabel": "14h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -168,8 +212,8 @@
       ],
       "publishedAt": "2026-11-26T07:23:42+00:00",
       "daysAgo": 0,
-      "timeAgo": "4h ago",
-      "timeLabel": "4h ago",
+      "timeAgo": "14h ago",
+      "timeLabel": "14h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -190,8 +234,8 @@
       ],
       "publishedAt": "2026-11-26T04:12:18+00:00",
       "daysAgo": 0,
-      "timeAgo": "7h ago",
-      "timeLabel": "7h ago",
+      "timeAgo": "17h ago",
+      "timeLabel": "17h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -209,28 +253,6 @@
       "summaryEn": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage."
     },
     {
-      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-26T03:32:53+00:00",
-      "daysAgo": 0,
-      "timeAgo": "8h ago",
-      "timeLabel": "8h ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists."
-    },
-    {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
       "sources": [
@@ -238,8 +260,8 @@
       ],
       "publishedAt": "2026-11-26T03:19:44+00:00",
       "daysAgo": 0,
-      "timeAgo": "8h ago",
-      "timeLabel": "8h ago",
+      "timeAgo": "18h ago",
+      "timeLabel": "18h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -253,37 +275,15 @@
       "summaryEn": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker."
     },
     {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "sources": [
-        "MarketWatch Top Stories"
-      ],
-      "publishedAt": "2026-11-25T23:00:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "13h ago",
-      "timeLabel": "13h ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "“My wife stopped working outside the home in 1970.”"
-    },
-    {
       "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
       "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
       "sources": [
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-25T21:56:43+00:00",
-      "daysAgo": 0,
-      "timeAgo": "14h ago",
-      "timeLabel": "14h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -303,9 +303,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-25T20:00:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "16h ago",
-      "timeLabel": "16h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -325,9 +325,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-25T20:00:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "16h ago",
-      "timeLabel": "16h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -347,9 +347,9 @@
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-25T17:30:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "18h ago",
-      "timeLabel": "18h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -369,9 +369,9 @@
         "CNBC World & Geopolitics"
       ],
       "publishedAt": "2026-11-25T17:28:24+00:00",
-      "daysAgo": 0,
-      "timeAgo": "18h ago",
-      "timeLabel": "18h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -395,9 +395,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-25T16:17:13+00:00",
-      "daysAgo": 0,
-      "timeAgo": "19h ago",
-      "timeLabel": "19h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -417,9 +417,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-25T14:18:45+00:00",
-      "daysAgo": 0,
-      "timeAgo": "21h ago",
-      "timeLabel": "21h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -483,9 +483,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-24T19:00:00+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -505,9 +505,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-24T18:34:43+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -575,9 +575,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-23T21:00:59+00:00",
-      "daysAgo": 2,
-      "timeAgo": "2d ago",
-      "timeLabel": "2d ago",
+      "daysAgo": 3,
+      "timeAgo": "3d ago",
+      "timeLabel": "3d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -623,9 +623,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-20T21:15:00+00:00",
-      "daysAgo": 5,
-      "timeAgo": "5d ago",
-      "timeLabel": "5d ago",
+      "daysAgo": 6,
+      "timeAgo": "6d ago",
+      "timeLabel": "6d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -645,9 +645,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-20T21:07:08+00:00",
-      "daysAgo": 5,
-      "timeAgo": "5d ago",
-      "timeLabel": "5d ago",
+      "daysAgo": 6,
+      "timeAgo": "6d ago",
+      "timeLabel": "6d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -667,9 +667,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-20T15:00:00+00:00",
-      "daysAgo": 5,
-      "timeAgo": "5d ago",
-      "timeLabel": "5d ago",
+      "daysAgo": 6,
+      "timeAgo": "6d ago",
+      "timeLabel": "6d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -733,9 +733,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-19T16:00:00+00:00",
-      "daysAgo": 6,
-      "timeAgo": "6d ago",
-      "timeLabel": "6d ago",
+      "daysAgo": 7,
+      "timeAgo": "7d ago",
+      "timeLabel": "7d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -755,9 +755,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-18T19:00:00+00:00",
-      "daysAgo": 7,
-      "timeAgo": "7d ago",
-      "timeLabel": "7d ago",
+      "daysAgo": 8,
+      "timeAgo": "8d ago",
+      "timeLabel": "8d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
