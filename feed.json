@@ -1,28 +1,72 @@
 {
-  "updatedAt": "2026-11-27T14:47:47.786658+00:00",
+  "updatedAt": "2026-11-27T23:16:37.052297+00:00",
   "storyCount": 35,
   "stories": [
     {
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
       "sources": [
-        "ECB Press & Speeches"
+        "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-27T14:00:00+00:00",
+      "publishedAt": "2026-11-27T23:07:13+00:00",
       "daysAgo": 0,
-      "timeAgo": "47m ago",
-      "timeLabel": "47m ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
+      "timeAgo": "9m ago",
+      "timeLabel": "9m ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
       "impact": 8,
       "impactScore": 8,
       "currencyImpacts": [
         {
-          "code": "EUR",
+          "code": "USD",
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "Live wire (ECB Press & Speeches): Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)."
+      "summaryEn": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware."
+    },
+    {
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "sources": [
+        "CNBC Economy & Central Banks"
+      ],
+      "publishedAt": "2026-11-27T21:45:41+00:00",
+      "daysAgo": 0,
+      "timeAgo": "1h ago",
+      "timeLabel": "1h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
+    },
+    {
+      "title": "The warnings behind this week’s stock-market rally",
+      "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "sources": [
+        "MarketWatch Top Stories"
+      ],
+      "publishedAt": "2026-11-27T18:40:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "4h ago",
+      "timeLabel": "4h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist."
     },
     {
       "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
@@ -30,10 +74,10 @@
       "sources": [
         "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-27T13:58:19+00:00",
+      "publishedAt": "2026-11-27T18:20:32+00:00",
       "daysAgo": 0,
-      "timeAgo": "49m ago",
-      "timeLabel": "49m ago",
+      "timeAgo": "4h ago",
+      "timeLabel": "4h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -47,37 +91,15 @@
       "summaryEn": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations."
     },
     {
-      "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
-      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-27T13:08:07+00:00",
-      "daysAgo": 0,
-      "timeAgo": "1h ago",
-      "timeLabel": "1h ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "EUR",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "The German arms maker vows a \"more prudent approch\" to forecast sales of tanks and ammunition."
-    },
-    {
-      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
-      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
       "sources": [
         "MarketWatch Top Stories"
       ],
-      "publishedAt": "2026-11-27T12:42:00+00:00",
+      "publishedAt": "2026-11-27T17:04:00+00:00",
       "daysAgo": 0,
-      "timeAgo": "2h ago",
-      "timeLabel": "2h ago",
+      "timeAgo": "6h ago",
+      "timeLabel": "6h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -88,18 +110,18 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings."
+      "summaryEn": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why."
     },
     {
-      "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-      "url": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "sources": [
         "MarketWatch Top Stories"
       ],
-      "publishedAt": "2026-11-27T12:29:00+00:00",
+      "publishedAt": "2026-11-27T15:45:00+00:00",
       "daysAgo": 0,
-      "timeAgo": "2h ago",
-      "timeLabel": "2h ago",
+      "timeAgo": "7h ago",
+      "timeLabel": "7h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -110,18 +132,62 @@
           "dir": "BULLISH"
         }
       ],
-      "summaryEn": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards."
+      "summaryEn": "“My wife stopped working outside the home in 1970.”"
     },
     {
-      "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
+      "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
+      "sources": [
+        "MarketWatch Top Stories"
+      ],
+      "publishedAt": "2026-11-27T15:04:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "8h ago",
+      "timeLabel": "8h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "‘I was stunned! I’ve lost my fair share, and won my fair share, and truly believe it all evens out over time.’"
+    },
+    {
+      "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+      "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+      "sources": [
+        "MarketWatch Top Stories"
+      ],
+      "publishedAt": "2026-11-27T15:01:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "8h ago",
+      "timeLabel": "8h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they  don’t seem to be generating  revenues from it at the same rate."
+    },
+    {
+      "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
       "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
       "sources": [
         "CNBC World & Geopolitics"
       ],
-      "publishedAt": "2026-11-27T11:49:18+00:00",
+      "publishedAt": "2026-11-27T14:52:40+00:00",
       "daysAgo": 0,
-      "timeAgo": "2h ago",
-      "timeLabel": "2h ago",
+      "timeAgo": "8h ago",
+      "timeLabel": "8h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -135,6 +201,50 @@
       "summaryEn": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI."
     },
     {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "sources": [
+        "ECB Press & Speeches"
+      ],
+      "publishedAt": "2026-11-27T14:00:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "9h ago",
+      "timeLabel": "9h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Live wire (ECB Press & Speeches): Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)."
+    },
+    {
+      "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-27T13:08:07+00:00",
+      "daysAgo": 0,
+      "timeAgo": "10h ago",
+      "timeLabel": "10h ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "The German arms maker vows a \"more prudent approch\" to forecast sales of tanks and ammunition."
+    },
+    {
       "title": "ECB Consumer Expectations Survey results – October 2026",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
       "sources": [
@@ -142,8 +252,8 @@
       ],
       "publishedAt": "2026-11-27T09:00:00+00:00",
       "daysAgo": 0,
-      "timeAgo": "5h ago",
-      "timeLabel": "5h ago",
+      "timeAgo": "14h ago",
+      "timeLabel": "14h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -164,8 +274,8 @@
       ],
       "publishedAt": "2026-11-27T06:50:38+00:00",
       "daysAgo": 0,
-      "timeAgo": "7h ago",
-      "timeLabel": "7h ago",
+      "timeAgo": "16h ago",
+      "timeLabel": "16h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -186,8 +296,8 @@
       ],
       "publishedAt": "2026-11-27T06:09:51+00:00",
       "daysAgo": 0,
-      "timeAgo": "8h ago",
-      "timeLabel": "8h ago",
+      "timeAgo": "17h ago",
+      "timeLabel": "17h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -208,8 +318,8 @@
       ],
       "publishedAt": "2026-11-27T04:07:07+00:00",
       "daysAgo": 0,
-      "timeAgo": "10h ago",
-      "timeLabel": "10h ago",
+      "timeAgo": "19h ago",
+      "timeLabel": "19h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -230,8 +340,8 @@
       ],
       "publishedAt": "2026-11-27T03:30:23+00:00",
       "daysAgo": 0,
-      "timeAgo": "11h ago",
-      "timeLabel": "11h ago",
+      "timeAgo": "19h ago",
+      "timeLabel": "19h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -317,9 +427,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-25T21:56:43+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -339,9 +449,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-25T20:00:00+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -361,9 +471,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-25T20:00:00+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -383,9 +493,9 @@
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-25T17:30:00+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -397,28 +507,6 @@
         }
       ],
       "summaryEn": "Live wire (ECB Press & Speeches): ECB and Sveriges Riksbank conclude agreement for Sweden to join T2."
-    },
-    {
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "sources": [
-        "CNBC Economy & Central Banks"
-      ],
-      "publishedAt": "2026-11-25T16:17:13+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
     },
     {
       "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
@@ -471,9 +559,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-24T19:00:00+00:00",
-      "daysAgo": 2,
-      "timeAgo": "2d ago",
-      "timeLabel": "2d ago",
+      "daysAgo": 3,
+      "timeAgo": "3d ago",
+      "timeLabel": "3d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -493,9 +581,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-24T18:34:43+00:00",
-      "daysAgo": 2,
-      "timeAgo": "2d ago",
-      "timeLabel": "2d ago",
+      "daysAgo": 3,
+      "timeAgo": "3d ago",
+      "timeLabel": "3d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -563,9 +651,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-23T21:00:59+00:00",
-      "daysAgo": 3,
-      "timeAgo": "3d ago",
-      "timeLabel": "3d ago",
+      "daysAgo": 4,
+      "timeAgo": "4d ago",
+      "timeLabel": "4d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -611,9 +699,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-20T21:15:00+00:00",
-      "daysAgo": 6,
-      "timeAgo": "6d ago",
-      "timeLabel": "6d ago",
+      "daysAgo": 7,
+      "timeAgo": "7d ago",
+      "timeLabel": "7d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -633,9 +721,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-20T21:07:08+00:00",
-      "daysAgo": 6,
-      "timeAgo": "6d ago",
-      "timeLabel": "6d ago",
+      "daysAgo": 7,
+      "timeAgo": "7d ago",
+      "timeLabel": "7d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -655,9 +743,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-20T15:00:00+00:00",
-      "daysAgo": 6,
-      "timeAgo": "6d ago",
-      "timeLabel": "6d ago",
+      "daysAgo": 7,
+      "timeAgo": "7d ago",
+      "timeLabel": "7d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -691,94 +779,6 @@
         }
       ],
       "summaryEn": "Live wire (ECB Press & Speeches): Christine Lagarde: Acting in time."
-    },
-    {
-      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-      "sources": [
-        "CNBC Economy & Central Banks"
-      ],
-      "publishedAt": "2026-11-20T01:49:03+00:00",
-      "daysAgo": 7,
-      "timeAgo": "7d ago",
-      "timeLabel": "7d ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "JPY",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists."
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
-      "sources": [
-        "Federal Reserve Press"
-      ],
-      "publishedAt": "2026-11-19T16:00:00+00:00",
-      "daysAgo": 7,
-      "timeAgo": "7d ago",
-      "timeLabel": "7d ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "sources": [
-        "Federal Reserve Press"
-      ],
-      "publishedAt": "2026-11-18T19:00:00+00:00",
-      "daysAgo": 8,
-      "timeAgo": "8d ago",
-      "timeLabel": "8d ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
-    },
-    {
-      "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
-      "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
-      "sources": [
-        "CNBC Economy & Central Banks"
-      ],
-      "publishedAt": "2026-11-18T07:57:37+00:00",
-      "daysAgo": 9,
-      "timeAgo": "9d ago",
-      "timeLabel": "9d ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "GBP",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "It put the U.K.'s annual inflation rate at a 1-year high."
     }
   ]
 }
