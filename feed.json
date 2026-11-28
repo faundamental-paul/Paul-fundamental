@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-11-28T06:55:05.165391+00:00",
+  "updatedAt": "2026-11-28T16:01:53.059855+00:00",
   "storyCount": 35,
   "stories": [
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "sources": [
+        "MarketWatch Top Stories"
+      ],
+      "publishedAt": "2026-11-28T15:30:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "31m ago",
+      "timeLabel": "31m ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "“My wife stopped working outside the home in 1970.”"
+    },
+    {
+      "title": "U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls",
+      "url": "https://www.cnbc.com/2026/11/28/centcom-iran-abraham-lincoln-hormuz-tanker-claims.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-28T14:06:43+00:00",
+      "daysAgo": 0,
+      "timeAgo": "1h ago",
+      "timeLabel": "1h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Centcom denied a claim by the head of Iran's navy that his country's forces struck the USS Abraham Lincoln aircraft carrier on the first day of the war."
+    },
+    {
+      "title": "Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
+      "url": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html",
+      "sources": [
+        "CNBC World & Geopolitics"
+      ],
+      "publishedAt": "2026-11-28T13:46:46+00:00",
+      "daysAgo": 0,
+      "timeAgo": "2h ago",
+      "timeLabel": "2h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Berkshire Hathaway's PacifiCorp and attorneys for thousands of plaintiffs are welcoming a decision by Oregon's Supreme Court to widen its review of a 2023 lower court trial in which a jury awarded more than one billion in damages over four wildfires in 2020."
+    },
+    {
+      "title": "These tech stocks may let you play defense without giving up on AI",
+      "url": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+      "sources": [
+        "MarketWatch Top Stories"
+      ],
+      "publishedAt": "2026-11-28T12:30:00+00:00",
+      "daysAgo": 0,
+      "timeAgo": "3h ago",
+      "timeLabel": "3h ago",
+      "category": "GEOPOLITICS",
+      "horizon": "SHORT",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "USD",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Amphenol, CDW, Sensata Technologies and TE Connectivity stood out when an Evercore analyst did a stress test of the hardware-related stocks he covers."
+    },
     {
       "title": "OpenAI countersues Apple for stealing trade secrets",
       "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
@@ -10,8 +98,8 @@
       ],
       "publishedAt": "2026-11-27T23:07:13+00:00",
       "daysAgo": 0,
-      "timeAgo": "7h ago",
-      "timeLabel": "7h ago",
+      "timeAgo": "16h ago",
+      "timeLabel": "16h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -32,8 +120,8 @@
       ],
       "publishedAt": "2026-11-27T21:45:41+00:00",
       "daysAgo": 0,
-      "timeAgo": "9h ago",
-      "timeLabel": "9h ago",
+      "timeAgo": "18h ago",
+      "timeLabel": "18h ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -47,28 +135,6 @@
       "summaryEn": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
     },
     {
-      "title": "The warnings behind this week’s stock-market rally",
-      "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
-      "sources": [
-        "MarketWatch Top Stories"
-      ],
-      "publishedAt": "2026-11-27T18:40:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "12h ago",
-      "timeLabel": "12h ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist."
-    },
-    {
       "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
       "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
       "sources": [
@@ -76,8 +142,8 @@
       ],
       "publishedAt": "2026-11-27T18:20:32+00:00",
       "daysAgo": 0,
-      "timeAgo": "12h ago",
-      "timeLabel": "12h ago",
+      "timeAgo": "21h ago",
+      "timeLabel": "21h ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -91,81 +157,15 @@
       "summaryEn": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations."
     },
     {
-      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-      "sources": [
-        "MarketWatch Top Stories"
-      ],
-      "publishedAt": "2026-11-27T17:04:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "13h ago",
-      "timeLabel": "13h ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why."
-    },
-    {
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "sources": [
-        "MarketWatch Top Stories"
-      ],
-      "publishedAt": "2026-11-27T15:45:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "15h ago",
-      "timeLabel": "15h ago",
-      "category": "MONETARY",
-      "horizon": "MEDIUM",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "“My wife stopped working outside the home in 1970.”"
-    },
-    {
-      "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
-      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-27T14:52:40+00:00",
-      "daysAgo": 0,
-      "timeAgo": "16h ago",
-      "timeLabel": "16h ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI."
-    },
-    {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
       "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
       "sources": [
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-27T14:00:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "16h ago",
-      "timeLabel": "16h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -185,9 +185,9 @@
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-27T09:00:00+00:00",
-      "daysAgo": 0,
-      "timeAgo": "21h ago",
-      "timeLabel": "21h ago",
+      "daysAgo": 1,
+      "timeAgo": "1d ago",
+      "timeLabel": "1d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -245,28 +245,6 @@
       "summaryEn": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag."
     },
     {
-      "title": "This 170-year historical study says ‘major market collapse’ is coming",
-      "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
-      "sources": [
-        "CNBC World & Geopolitics"
-      ],
-      "publishedAt": "2026-11-27T04:07:07+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
-      "category": "GEOPOLITICS",
-      "horizon": "SHORT",
-      "impact": 8,
-      "impactScore": 8,
-      "currencyImpacts": [
-        {
-          "code": "USD",
-          "dir": "BULLISH"
-        }
-      ],
-      "summaryEn": "The artificial intelligence boom is flashing warning signs of speculative excess that rival those seen at the height of the dot-com bubble."
-    },
-    {
       "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
       "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
       "sources": [
@@ -295,9 +273,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-26T12:46:55+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -317,9 +295,9 @@
         "CNBC World & Geopolitics"
       ],
       "publishedAt": "2026-11-26T11:01:13+00:00",
-      "daysAgo": 1,
-      "timeAgo": "1d ago",
-      "timeLabel": "1d ago",
+      "daysAgo": 2,
+      "timeAgo": "2d ago",
+      "timeLabel": "2d ago",
       "category": "GEOPOLITICS",
       "horizon": "SHORT",
       "impact": 8,
@@ -427,9 +405,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-25T14:18:45+00:00",
-      "daysAgo": 2,
-      "timeAgo": "2d ago",
-      "timeLabel": "2d ago",
+      "daysAgo": 3,
+      "timeAgo": "3d ago",
+      "timeLabel": "3d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -449,9 +427,9 @@
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-25T10:00:00+00:00",
-      "daysAgo": 2,
-      "timeAgo": "2d ago",
-      "timeLabel": "2d ago",
+      "daysAgo": 3,
+      "timeAgo": "3d ago",
+      "timeLabel": "3d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -515,9 +493,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-24T11:15:30+00:00",
-      "daysAgo": 3,
-      "timeAgo": "3d ago",
-      "timeLabel": "3d ago",
+      "daysAgo": 4,
+      "timeAgo": "4d ago",
+      "timeLabel": "4d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -541,9 +519,9 @@
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-24T11:00:00+00:00",
-      "daysAgo": 3,
-      "timeAgo": "3d ago",
-      "timeLabel": "3d ago",
+      "daysAgo": 4,
+      "timeAgo": "4d ago",
+      "timeLabel": "4d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -589,9 +567,9 @@
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-23T10:00:00+00:00",
-      "daysAgo": 4,
-      "timeAgo": "4d ago",
-      "timeLabel": "4d ago",
+      "daysAgo": 5,
+      "timeAgo": "5d ago",
+      "timeLabel": "5d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -655,9 +633,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-20T15:00:00+00:00",
-      "daysAgo": 7,
-      "timeAgo": "7d ago",
-      "timeLabel": "7d ago",
+      "daysAgo": 8,
+      "timeAgo": "8d ago",
+      "timeLabel": "8d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -677,9 +655,9 @@
         "ECB Press & Speeches"
       ],
       "publishedAt": "2026-11-20T08:30:00+00:00",
-      "daysAgo": 7,
-      "timeAgo": "7d ago",
-      "timeLabel": "7d ago",
+      "daysAgo": 8,
+      "timeAgo": "8d ago",
+      "timeLabel": "8d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -721,9 +699,9 @@
         "Federal Reserve Press"
       ],
       "publishedAt": "2026-11-19T16:00:00+00:00",
-      "daysAgo": 8,
-      "timeAgo": "8d ago",
-      "timeLabel": "8d ago",
+      "daysAgo": 9,
+      "timeAgo": "9d ago",
+      "timeLabel": "9d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -765,9 +743,9 @@
         "CNBC Economy & Central Banks"
       ],
       "publishedAt": "2026-11-18T07:57:37+00:00",
-      "daysAgo": 9,
-      "timeAgo": "9d ago",
-      "timeLabel": "9d ago",
+      "daysAgo": 10,
+      "timeAgo": "10d ago",
+      "timeLabel": "10d ago",
       "category": "MONETARY",
       "horizon": "MEDIUM",
       "impact": 8,
@@ -779,6 +757,28 @@
         }
       ],
       "summaryEn": "It put the U.K.'s annual inflation rate at a 1-year high."
+    },
+    {
+      "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+      "sources": [
+        "ECB Press & Speeches"
+      ],
+      "publishedAt": "2026-11-17T18:30:00+00:00",
+      "daysAgo": 10,
+      "timeAgo": "10d ago",
+      "timeLabel": "10d ago",
+      "category": "MONETARY",
+      "horizon": "MEDIUM",
+      "impact": 8,
+      "impactScore": 8,
+      "currencyImpacts": [
+        {
+          "code": "EUR",
+          "dir": "BULLISH"
+        }
+      ],
+      "summaryEn": "Live wire (ECB Press & Speeches): Philip R. Lane: The practice and science of monetary policy communication: the ECB experience."
     }
   ]
 }
